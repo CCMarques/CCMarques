@@ -11,6 +11,6 @@ Atualmente sou Analista de Testes em um projeto ágil com foco na qualidade em t
  Java, Python (Básico), Selenium, Cucumber, JUnit, Postman, HTML, CSS, JIRA.
 
 <!---
-Mark´s/Mark´s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CCMarques/CCMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
