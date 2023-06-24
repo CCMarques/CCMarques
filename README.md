@@ -8,7 +8,7 @@ Atualmente sou Analista de Testes em um projeto ágil com foco na qualidade em t
  Testes de Caixa Preta 
  Planejamento e cobertura de testes
  Step by Step e Gherkins
- Java, Python (Básico), Selenium, Cucumber, JUnit, Postman, HTML, CSS, JIRA.
+ Java, Selenium, Cucumber, JUnit, Postman.
 
 <!---
 CCMarques/CCMarques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
